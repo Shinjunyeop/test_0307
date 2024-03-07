@@ -5,4 +5,4 @@
 ##### __5. idk 신준엽__
 ###### 6. idk
 # 7. [ ] 할 일
-![git hub 로고](![image](https://github.com/Shinjunyeop/test_0307/assets/159976500/fbfd8fb1-0129-42a1-83bb-dc5e1e6a717c)
+! (![image](https://github.com/Shinjunyeop/test_0307/assets/159976500/fbfd8fb1-0129-42a1-83bb-dc5e1e6a717c)
